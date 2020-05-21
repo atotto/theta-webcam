@@ -11,7 +11,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/atotto/theta-s_stream/stream"
+	"github.com/atotto/theta-webcam/stream"
 )
 
 var save = flag.String("save", "", "save motion jpeg (mov) file")
